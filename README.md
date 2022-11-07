@@ -13,6 +13,6 @@ N/A
 
 ## Usage
 
-![screenshot of homepage](./assets/images/screenshot-finished.png)
+![screenshot of website](./assets/images/screenshot-finished)
 
 - Link to webpage
