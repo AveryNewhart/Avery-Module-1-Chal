@@ -13,6 +13,6 @@ N/A
 
 ## Usage
 
-![screenshot of website](./Develop/assets/images/finished.png)
+![screenshot of website](./Develop/assets/images/fixed.png)
 
 - Link to webpage https://averynewhart.github.io/Module1/
